@@ -1,8 +1,8 @@
-# 🌐 K Nilesh Portfolio Website
+# 🌐 K Nilesh Portfolio Website ( Portfolio Under Work )
 
 A modern and responsive personal portfolio website built to showcase my projects, skills, achievements, and passion for technology.
 
-[K Nilesh](https://k-nilesh04.github.io/Portfolio/)
+[Website](https://k-nilesh04.github.io/Portfolio/)
 
 ---
 
@@ -57,7 +57,7 @@ portfolio-website/
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/portfolio-website.git
+git clone https://github.com/k-nilesh04/Portfolio.git
 ```
 
 ### Open the Project
@@ -78,7 +78,6 @@ A passionate student who enjoys:
 
 - 🌐 Web Development
 - 🤖 Robotics
-- 🎨 UI/UX Design
 - 💻 Programming
 - 🚀 Building Innovative Projects
 
@@ -88,20 +87,17 @@ I believe in learning by building, which is why I continuously work on projects 
 
 ## 🏆 Achievements
 
-- 🥇 Winner - Delhi Robotics League 2023
+- 🥇 Won category Winner - Delhi Robotics League 2023
 - 🎯 SPOC - IIT Madras School Connect Program
 - 💡 Participant - Samsung Solve for Tomorrow 2025
 - 🚀 IIT Delhi Hackathon Participant
-- 🎓 IIT Delhi Seminar Participant
-- ♟️ Zonal Chess Participant
-- 🌱 Eco Club Member
+- ♟️ Zonal Chess semifinal winner
 
 ---
 
 ## 📈 Future Improvements
 
 - Add More Projects
-- Dark/Light Mode Toggle
 - Blog Section
 - Resume Download Option
 - Enhanced Animations
@@ -112,13 +108,9 @@ I believe in learning by building, which is why I continuously work on projects 
 ## 📬 Connect With Me
 
 ### LinkedIn
-www.linkedin.com/in/k-nilesh-8b5567287
-
+[Linkedin](https://www.linkedin.com/in/k-nilesh04/)
 ### GitHub
-https://github.com/YOUR_USERNAME
-
-### Email
-your-email@example.com
+[GitHub](https://github.com/k-nilesh04)
 
 ---
 
