@@ -2,7 +2,7 @@
 
 A modern and responsive personal portfolio website built to showcase my projects, skills, achievements, and passion for technology.
 
-[https://k-nilesh04.github.io/Portfolio/]
+![K Nilesh](https://k-nilesh04.github.io/Portfolio/)
 
 ---
 
