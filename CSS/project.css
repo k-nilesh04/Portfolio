@@ -1,7 +1,13 @@
 /* Project Section Styling */
 
 #projects {
-    margin-top: 15vh;
+    margin-top: 70px;
+}
+
+@media (max-width: 576px) {
+    #projects {
+        margin-top: 50px;
+    }
 }
 
 

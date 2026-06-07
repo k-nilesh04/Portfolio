@@ -1,7 +1,14 @@
 .about-section { 
+    margin-top: 70px;
     padding: 80px 10%; 
     background-color: #191919;
     color:white;
+}
+
+@media (max-width: 576px) {
+    .about-section {
+        margin-top: 50px;
+    }
 }
 
 .about-container { 
