@@ -1,5 +1,10 @@
 /* Project Section Styling */
 
+#projects {
+    margin-top: 15vh;
+}
+
+
 .projects-section {
     max-width: 1200px;
     margin: 50px ;
