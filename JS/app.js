@@ -1,3 +1,5 @@
+// responsive navbar code 
+
 function toggleMenu() {
     const navLinks = document.querySelector(".nav-links");
 
